@@ -820,3 +820,15 @@ body {
     color: #FFFFFF;
     text-align: left;
 }
+
+.table {
+width: 90%;
+height: 57px;
+color: #28282D;
+border:rgb(from color r g b);
+text-align: center;
+line-height: 40px;
+text-decoration: none;
+margin-left: 2rem;
+
+}
