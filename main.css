@@ -29,7 +29,7 @@ body {
     .shelter_title {
         text-align: center;
         font-family: PlayFair Display;
-        font-size: 35px;
+        font-size: 3,5rem;
         font-weight: bold;
         color: #625E5E;
     }
@@ -81,7 +81,7 @@ body {
 
     .title_h2 {
         font-family: PlayFair Display;
-        font-size: 28px;
+        font-size: 2,8rem;
         font-weight: bold;
         color: #625E5E;
         margin-left: 20px;
@@ -90,7 +90,7 @@ body {
 
     .norm_text {
         font-family: Lato;
-        font-size: 16px;
+        font-size: 1,6rem;
         font-weight: regular;
         color: #28282D;
         margin-left: 20px;
@@ -127,7 +127,7 @@ body {
         background-color: #A9BDB8;
         color: #FFFFFF;
         font-family: 'Lato', sans-serif;
-        font-size: 16px;
+        font-size: 1,6rem;
         font-weight: bold;
         text-transform: uppercase;
         border: none;
@@ -195,7 +195,7 @@ body {
     .shelter_title {
         text-align: center;
         font-family: PlayFair Display;
-        font-size: 35px;
+        font-size: 3,5rem;
         font-weight: bold;
         color: #625E5E;
     }
@@ -247,7 +247,7 @@ body {
 
     .title_h2 {
         font-family: PlayFair Display;
-        font-size: 28px;
+        font-size: 2,8rem;
         font-weight: bold;
         color: #625E5E;
         margin-left: 20px;
@@ -256,7 +256,7 @@ body {
 
     .norm_text {
         font-family: Lato;
-        font-size: 16px;
+        font-size: 1,6rem;
         font-weight: regular;
         color: #28282D;
         margin-left: 20px;
@@ -293,7 +293,7 @@ body {
         background-color: #A9BDB8;
         color: #FFFFFF;
         font-family: 'Lato', sans-serif;
-        font-size: 16px;
+        font-size: 1,6rem;
         font-weight: bold;
         text-transform: uppercase;
         border: none;
@@ -314,7 +314,7 @@ body {
     .title_3 {
         text-align: center;
         font-family: PlayFair Display;
-        font-size: 10px;
+        font-size: 1rem;
         font-weight: regular;
         color: #FFFFFF;
         text-align: left;
@@ -323,7 +323,7 @@ body {
 
     .footer_text {
         font-family: 'Lato', sans-serif;
-        font-size: 9px;
+        font-size: 0,9rem;
         font-weight: regular;
         text-align: center;
         color: #FFFFFF;
@@ -339,9 +339,9 @@ body {
 
     }
 
-    .text_table_1 {
+    .h3 {
         font-family: Lato;
-        font-size: 13px;
+        font-size: 1,3rem;
         font-weight: regular;
         color: #8D866E;
 
@@ -351,7 +351,7 @@ body {
 
     .text_table_2 {
         font-family: Lato;
-        font-size: 10px;
+        font-size: 1rem;
         font-weight: regular;
         color: #625E5E;
 
@@ -359,7 +359,7 @@ body {
 
     .norm_text_colour {
         font-family: Lato;
-        font-size: 16px;
+        font-size: 1,6rem;
         font-weight: regular;
         color: 0B731C;
         margin-left: 20px;
@@ -392,7 +392,7 @@ body {
     .shelter_title {
         text-align: center;
         font-family: PlayFair Display;
-        font-size: 35px;
+        font-size: 3,5rem;
         font-weight: bold;
         color: #625E5E;
     }
@@ -444,7 +444,7 @@ body {
 
     .title_h2 {
         font-family: PlayFair Display;
-        font-size: 48px;
+        font-size: 4,8rem;
         font-weight: bold;
         color: #625E5E;
         margin-left: 100px;
@@ -453,7 +453,7 @@ body {
 
     .norm_text {
         font-family: Lato;
-        font-size: 36px;
+        font-size: 3,6rem;
         font-weight: regular;
         color: #28282D;
         margin-left: 100px;
@@ -488,7 +488,7 @@ body {
         background-color: #A9BDB8;
         color: #FFFFFF;
         font-family: 'Lato', sans-serif;
-        font-size: 16px;
+        font-size: 1,6rem;
         font-weight: bold;
         text-transform: uppercase;
         border: none;
@@ -509,7 +509,7 @@ body {
     .title_3 {
         text-align: center;
         font-family: PlayFair Display;
-        font-size: 10px;
+        font-size: 1rem;
         font-weight: regular;
         color: #FFFFFF;
         text-align: left;
@@ -518,7 +518,7 @@ body {
 
     .footer_text {
         font-family: 'Lato', sans-serif;
-        font-size: 9px;
+        font-size: 0,9rem;
         font-weight: regular;
         text-align: center;
         color: #FFFFFF;
@@ -556,7 +556,7 @@ body {
     .shelter_title {
         text-align: center;
         font-family: PlayFair Display;
-        font-size: 35px;
+        font-size: 3,5rem;
         font-weight: bold;
         color: #625E5E;
     }
@@ -608,7 +608,7 @@ body {
 
     .title_h2 {
         font-family: PlayFair Display;
-        font-size: 28px;
+        font-size: 2,8rem;
         font-weight: bold;
         color: #625E5E;
         margin-left: 20px;
@@ -617,7 +617,7 @@ body {
 
     .norm_text {
         font-family: Lato;
-        font-size: 16px;
+        font-size: 1,6rem;
         font-weight: regular;
         color: #28282D;
         margin-left: 20px;
@@ -654,7 +654,7 @@ body {
         background-color: #A9BDB8;
         color: #FFFFFF;
         font-family: 'Lato', sans-serif;
-        font-size: 16px;
+        font-size: 1,6rem;
         font-weight: bold;
         text-transform: uppercase;
         border: none;
@@ -675,7 +675,7 @@ body {
     .title_3 {
         text-align: center;
         font-family: PlayFair Display;
-        font-size: 10px;
+        font-size: 1rem;
         font-weight: regular;
         color: #FFFFFF;
         text-align: left;
@@ -684,7 +684,7 @@ body {
 
     .footer_text {
         font-family: 'Lato', sans-serif;
-        font-size: 9px;
+        font-size: 0,9rem;
         font-weight: regular;
         text-align: center;
         color: #FFFFFF;
@@ -712,7 +712,7 @@ body {
 
     .text_table_2 {
         font-family: Lato;
-        font-size: 10px;
+        font-size: 1rem;
         font-weight: regular;
         color: #625E5E;
 
@@ -720,7 +720,7 @@ body {
 
     .norm_text_colour {
         font-family: Lato;
-        font-size: 16px;
+        font-size: 1,6rem;
         font-weight: regular;
         color: 0B731C;
         margin-left: 20px;
@@ -735,7 +735,7 @@ body {
 
     #first_name::placeholder {
         font-family: 'Lato', sans-serif;
-        font-size: 16px;
+        font-size: 1,6rem;
         color: #CCC8C8;
         text-align: center;
 
@@ -826,7 +826,7 @@ body {
 
 .placeholder_1 > input::placeholder {
     font-family: 'Lato', sans-serif;
-    font-size: 16px;
+    font-size: 1,6rem;
     color: #CCC8C8;
     text-align: center;
 
@@ -849,7 +849,8 @@ body {
 }
 
 .bottom_text {
-    color: #A9BDB8;
+    color: #CCC8C8;
+    font-size:0,9rem ;
 }
 
 .custom-button:hover {
@@ -858,4 +859,14 @@ body {
 
 .custom-button {
     transition: all 300ms;
+
+}
+.h4 { text-align: center;
+    font-family: PlayFair Display;
+    font-size: 1rem;
+    font-weight: regular;
+    color: #FFFFFF;
+    text-align: left;
+    
+
 }
